@@ -1,0 +1,12 @@
+{
+  "name": "e7-draft-assistant-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Epic Seven RTA draft assistant with Vercel serverless AI analysis.",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
